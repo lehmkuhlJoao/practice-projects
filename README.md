@@ -1,6 +1,6 @@
 # practice-projects
 
-# Meus Projetos de Desenvolvimento
+# Prática de Desenvolvimento com Projetos Interativos
 
 Este repositório contém alguns projetos de programação que fiz para praticar minhas habilidades em **JavaScript**, **HTML**, **CSS**, e **APIs**. Cada projeto pode ser acessado ao vivo através do GitHub Pages. Veja abaixo a descrição de cada um deles:
 
