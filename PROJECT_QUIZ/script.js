@@ -50,13 +50,13 @@ function finishQuiz() {
     let points = Math.floor((correctAnswers / questions.length) * 100)
 
     if(points < 30) {
-        document.querySelector('.scoreText1').innerHTML = 'Burrão ein mano!'
+        document.querySelector('.scoreText1').innerHTML = 'Vamo estudar amigo!'
         document.querySelector('.scorePct').style.color = '#FF0000'
     } else if(points >= 30 && points < 70) {
-        document.querySelector('.scoreText1').innerHTML = 'O gurizão, vamo melhorar ein!'
+        document.querySelector('.scoreText1').innerHTML = 'O gurizão, da pra melhorar ein!'
         document.querySelector('.scorePct').style.color = '#FFFF00'
     } else if(points >= 70) {
-        document.querySelector('.scoreText1').innerHTML = 'BOA PORRA!'
+        document.querySelector('.scoreText1').innerHTML = 'BOA QUERIDO!'
         document.querySelector('.scorePct').style.color = '#0D630D'
     }
 
